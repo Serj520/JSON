@@ -1,0 +1,12 @@
+{
+	"Firtsname":  "Serj",
+	"Lastname": "Kabulov",
+	"Age": "34",
+	"Children": {
+		"Name": "Anna",
+		"Age": "10"},
+"numbers of pet": "1",
+"salary":"500 USD"
+}
+
+
