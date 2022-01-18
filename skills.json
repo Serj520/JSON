@@ -1,0 +1,17 @@
+{
+	"Object": {
+		"firstname": "Serj",
+		"surname": "Kabulov"
+	}
+	"Skills":{
+		"skill1": "Basic theory",
+		"skill2": "Android studio",
+		"skill3": "Linux terminal",
+		"skill4": "SQL",
+		"skill5": "Bag tracking"
+	}
+}
+
+	
+
+
